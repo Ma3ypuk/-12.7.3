@@ -1,4 +1,4 @@
-# Slillfactori -12.7.3
+# SKillfactori -12.7.3
 Skillfactory. Тестовая задача 12.7.3, модуль "основы Python"
 
 Задание 12.7.3
